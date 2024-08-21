@@ -7,4 +7,5 @@ The contents of the book are © 2020-2024 Thomas Kaeding. All rights reserved. I
 book for teaching or you want to print and distribute copies, you must contact me to work out a
 licensing agreement.
 
-There is a new, expanded version in the works. Most of it is included here.
+There is a new, expanded version. Currently it is in two parts: version2.pdf and part11-ciphermachines.pdf.
+It doesn't have an index yet.
