@@ -8,3 +8,8 @@ book for teaching or you want to print and distribute copies, you must contact m
 licensing agreement.
 
 There is a new, expanded version. It doesn't have an index yet.
+
+By the way, all PDF files are invalid. Files made with ps2pdf are invalid. Files made with pdf-jam
+are invalid. Files made with LibreOffice are invalid. Sample PDF files downloaded from the web
+and added to this repository are invalid. So to read the book, you have to download it and view
+it outside of github.
